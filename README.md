@@ -1,0 +1,3 @@
+# DSC
+A Mathematica notebook for simulation of the DSC curves of protein denaturation in the presence of a number of different concentrations of a binding ligand. The denaturation temperature, enthalpy, and heat capacity for pure protein must be known as well as the binding constants and enthalpies for ligand. A two-state model of protein denaturation and binding models with 1, 2, or 3 stepwise binding constants are implemented in the notebook, other models may also be incorporated quite easily. The equilibrium at each temperature is presumed, which is true for very slow scanning rates.<p>
+Please cite: International Journal of Pharmaceutics, 583, 2020, 119362. https://doi.org/10.1016/j.ijpharm.2020.119362
